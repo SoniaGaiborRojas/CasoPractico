@@ -1,4 +1,2 @@
 BancoOrdenante,NombreOrdenante,TipoCuentaOrdenante,Fecha,Monto,BancoBeneficiario,NombreBeneficiario,TipoCuentaBeneficiario
-BANCO DEL PICHINCHA,FerrinMunoz,ahorro,Apr20 2023 12:00AM,16.00,BANCO DE GUAYAQUIL,QuirozHinostroza,ahorro
-BANCO DEL PICHINCHA,ReyesCoello,ahorro,Apr20 2023 12:00AM,200.00,BANCO PRODUBANCO,ReyesCoello,ahorro
-BANCO DEL PICHINCHA,PaillachoGuerron,ahorro,Apr 20 2023 12:00AM,27.04,BANCO PRODUBANCO,StarcourierServicio,ahorro
+BANCODELPICHINCHA,FerrinMunoz,ahorro,Apr2020231200AM,1600,BANCODEUAYAQUIL,QuirozHinostroza,ahorro
