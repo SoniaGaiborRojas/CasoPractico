@@ -1,2 +1,4 @@
-BancoOrdenante,NombreOrdenante,TipoCuentaOrdenante,Fecha,Monto,BancoBeneficiario,NombreBeneficiario,TipoCuentaBeneficiario
-BANCODELPICHINCHA,FerrinMunoz,ahorro,Apr2020231200AM,1600,BANCODEUAYAQUIL,QuirozHinostroza,ahorro
+Source,Target,Type,id,weight
+Addam-Marbrand,Brynden-Tully,Undirected,0,3
+Addam-Marbrand,Cersei-Lannister,Undirected,1,3
+Addam-Marbrand,Gyles-Rosby,Undirected,2,3
